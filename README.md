@@ -1,7 +1,9 @@
 
 # The Flash Card App 
 
-This app will help you learn new words in any language, I've used arabic language here.
+This app will help you learn new words in any language. 
+
+I've used arabic language here. For your desired language just add a csv file in data folder and its path.
 
 It will show you a word, and you have some seconds to guess the meaning of that word in english you have to select ✅ or ❌ button.
 
